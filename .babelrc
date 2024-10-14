@@ -1,0 +1,6 @@
+{
+  "presets": [
+    ["@babel/preset-react", { "runtime": "classic" }], // Transpile JSX with React classic runtime
+    "@babel/preset-env" // Handle modern JavaScript syntax
+  ]
+}
