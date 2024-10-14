@@ -7,7 +7,7 @@ https://make.wordpress.org/core/2024/06/06/jsx-in-wordpress-6-6/
 
 **I have since learnt that @wordpress/scripts is really meant for creating Gutenberg blocks.**
 
-**Since this app, does not involve blocks but stands alone, rendering react directly via a shortcode, then importing React and ReactDOM would have been acceptable.**
+**Since this app, does not involve blocks but stands alone, rendering react directly via a shortcode, then importing React and ReactDOM would have been acceptable. But this approach would reduce scope for conflicts**
 
 **I may refactor this in the future accordingly**
 
